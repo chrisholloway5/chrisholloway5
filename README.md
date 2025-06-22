@@ -1,6 +1,6 @@
 <div>
 # 💫 About Me:
-<br>- 🔭 I’m currently working on Zencart construct<br>- 🌱 I’m currently learning Kotiln<br>- 👯 I’m looking to collaborate on pcpartbuilder<br>- 🤔 I’m looking for help with developing modules for zencart <br>- 💬 Ask me about anything !<br>- 📫 How to reach me: info@progressiverobot.com
+<br>- 🔭 I’m currently working on Zencart construct<br>- 🌱 I’m currently mastering Kotiln<br>- 👯 I’m looking to collaborate on pcpartbuilder<br>- 🤔 I’m currnetly helping develope modules for zencart <br>- 💬 Ask me about anything !<br>- 📫 How to reach me: info@progressiverobot.com
 </div>
 
 <div align="center">
