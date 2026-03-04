@@ -1,6 +1,6 @@
 <div>
 <br>- 💫 About Me:
-<br>- 🔭 I’m currently conrtibuting to Zencart codebase<br>- 🌱 I’m currently mastering Kotiln<br>- 👯 I'm currently balls deep in LLMS FML<br>- 🤔 I’m currnetly helping develop modules for zencart <br>- 💬 Ask me about anything !<br>- 📫 How to reach me: info@progressiverobot.com
+<br>- 🔭 I’m currently conrtibuting to Zencart codebase<br>- 🌱 I’m currently mastering Kotiln<br>- 👯 I'm currently balls deep in LLM Training FML<br>- 🤔 I’m currently developing modules for openclaw <br>- 💬 Ask me about anything !<br>- 📫 How to reach me: info@progressiverobot.com
 </div>
 
 <div align="center">
